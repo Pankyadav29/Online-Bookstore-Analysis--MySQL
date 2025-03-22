@@ -49,11 +49,11 @@ By using SQL queries, this project extracts meaningful insights from sales, cust
 
 ## Key Insights & Findings
 
-1. Total Revenue Generated: 💲 X,XXX (calculated using SQL query)
-2. Most Expensive Book: "XYZ" priced at $XX.XX
-3. Most Frequently Ordered Book: "ABC" with XXX orders
-4. Highest Spending Customer: "John Doe" spent $XXX
-5. Top 3 Cities with Highest Sales: City A, City B, City C
-6. Genre with Highest Sales: Fiction with XXX books sold
+1. Total Revenue Generated: 💲 75,628 (calculated using SQL query)
+2. Most Expensive Book: "Configurable modular throughput" priced at $21.34
+3. Most Frequently Ordered Book: "Implemented encompassing conglomeration" with 4 orders
+4. Highest Spending Customer: "Kim Turner" spent $1399
+5. Top 3 Cities with Highest Sales: South Rachelview , Bakerton , Kennethland 
+6. Genre with Highest Sales: Mystery with 504 books sold
 7. Stock Left After All Orders: XXX books remaining
 
